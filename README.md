@@ -5,3 +5,10 @@ This repository contains the code and resources for a machine learning project f
 The repository contains the following files: 
 Descriptive_Multicoli.R : R code with data cleaning, descriptive statistics for several variables, Multicollinearity checking.
 Outlier_AssumptionValidity_LinearRegression.R : R code for outlier detection, Assumption validity of multiple linear regression, model fitting of multiple linear regression
+
+## Fitted Models
+* Multiple Linear Regression
+* Ridge Regression
+* Lasso Regression
+* Random Forest
+* XG Boost
